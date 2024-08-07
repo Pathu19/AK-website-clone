@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.agscinemas.com	TRUE	/	FALSE	1999999999	PHPSESSID	cb69i39t44fiamvcognmncd3n0
+www.agscinemas.com	TRUE	/	FALSE	1999999999	profilepic	%20
+
